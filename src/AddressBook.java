@@ -29,5 +29,3 @@ public class AddressBook {
 		
 	}
 }
-
-//https://github.com/mrakulous/SYSC3110Lab3.git
